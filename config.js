@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version-NOVA');
+console.log('version-NOVA3');
